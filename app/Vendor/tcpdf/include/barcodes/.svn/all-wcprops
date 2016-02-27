@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/cybercoupon/!svn/ver/562/vendors/tcpdf/include/barcodes
+END
+qrcode.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/cybercoupon/!svn/ver/562/vendors/tcpdf/include/barcodes/qrcode.php
+END
+datamatrix.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/cybercoupon/!svn/ver/562/vendors/tcpdf/include/barcodes/datamatrix.php
+END
+pdf417.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/cybercoupon/!svn/ver/562/vendors/tcpdf/include/barcodes/pdf417.php
+END
